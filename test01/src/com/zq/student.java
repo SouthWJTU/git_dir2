@@ -7,4 +7,6 @@ package com.zq;
  * @version: 1.0
  */
 public class student {
+    private int age;
+    private String pass;
 }
